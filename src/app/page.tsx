@@ -113,8 +113,8 @@ export default function Home() {
           className="mt-4 text-lg flex justify-center space-x-8 text-gray-800 border border-sky-500 p-6 rounded-lg shadow-lg text-lg" 
           whileHover={{ scale: 1.05 }}
         >
-          <p>📧 <b>Email:</b> koudrilamia@example.com</p>
-          <p>📞 <b>Phone:</b> +213 123 456 789</p>
+          <p>📧 <b>Email:</b> lamia.koudri@g.enp.edu.dz</p>
+          <p>📞 <b>Phone:</b> +213 553307623</p>
           <p>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/lamia-koudri-054130297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="text-blue-600 underline">linkedin.com</a></p>
         </motion.div>
       </section>
